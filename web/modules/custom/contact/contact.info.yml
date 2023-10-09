@@ -1,0 +1,5 @@
+name: 'contact'
+type: module
+description: 'This module save contact messages from visitors'
+package: Custom
+core_version_requirement: ^10

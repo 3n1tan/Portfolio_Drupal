@@ -1,0 +1,7 @@
+/contact:
+  path: '/contact'
+  defaults:
+    _title: 'Contact Us Form'
+    _form: 'Drupal\contact\Form\ContactForm'
+  requirements:
+    _permission: 'access content'
