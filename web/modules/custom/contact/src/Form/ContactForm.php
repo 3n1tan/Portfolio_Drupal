@@ -38,7 +38,7 @@ final class ContactForm extends FormBase {
 
     $form['guest_email'] = [
       '#type' => 'email',
-      '#title' => $this->t('Guest Email'),
+      '#title' => $this->t('Email Address'),
       '#required' => TRUE,
       '#maxlength' => 100,
     ];
